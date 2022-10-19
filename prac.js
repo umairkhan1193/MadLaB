@@ -97,13 +97,13 @@ console.log(randomString.lastIndexOf("554"));
 
 
 // 10. match()
- console.log(randomString.match(/random/));
+/* console.log(randomString.match(/random/));
 
 // 11. matchAll()
-console.log(randomString.matchAll(/random/)); 
+console.log(randomString.matchAll(/random/)); */
 
 // 12. normalize()
- console.log(randomString.normalize()); 
+/* console.log(randomString.normalize()); */
 
 // 13. padEnd()
 
